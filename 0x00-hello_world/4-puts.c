@@ -1,10 +1,8 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
- * This program demonstrates the usage of the puts function
+ * main - Entry point
  *
- * main - this serves as the entry point of the program
- *
- * Return : indicates successful program execution
+ * Return : Always 0 (Success)
  */
 
 int main(void)
