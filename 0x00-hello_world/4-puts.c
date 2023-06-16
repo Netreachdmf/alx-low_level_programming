@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
  * This program demonstrates the usage of the puts function
+ *
  * main - this serves as the entry point of the program
+ *
  * Return : indicates successful program execution
  */
 
