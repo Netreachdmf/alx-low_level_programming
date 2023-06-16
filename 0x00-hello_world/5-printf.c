@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
- * main : this program prints using the printf function
+ * main - Entry point of my code
  *
- * return: (0) Success
+ * Return: 0 (Success)
  */
 int main(void)
 {
