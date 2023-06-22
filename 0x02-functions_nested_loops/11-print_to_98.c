@@ -36,6 +36,7 @@ break;
 else
 {
 printf("%d, ", n);
+printf("\n");
 }
 }
 }
