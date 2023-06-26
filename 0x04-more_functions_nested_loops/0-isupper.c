@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _putchar - uppercase letters
+ * _putchar - Uppercase letters
  * @c: char to check
  *
  * Return: 0 or 1
